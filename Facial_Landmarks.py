@@ -6,7 +6,7 @@ webcam = True
 camera=1
 cap = cv2.VideoCapture(camera)
 detector = dlib.get_frontal_face_detector()
-predictor = dlib.shape_predictor("FacialLandmarks/shape_predictor_68_face_landmarks.dat")
+predictor = dlib.shape_predictor("shape_predictor_68_face_landmarks.dat")
 # predictor = dlib.shape_predictor("FacialLandmarks/shape_predictor_68_face_landmarks.dat.bz2")
 
 def empty(a):
