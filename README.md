@@ -1,4 +1,4 @@
-echo "# Facial Landmark Detection  
+# Facial Landmark Detection  
 A Python project for facial landmark detection using OpenCV and Dlib.  
 
 ## Requirements  
@@ -20,4 +20,4 @@ python main.py
 \`\`\`
 
 ## Author  
-Developed by [Your Name]" > README.md
+Developed by Sharaf-AlFaqeeh
