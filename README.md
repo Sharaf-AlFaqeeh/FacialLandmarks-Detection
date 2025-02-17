@@ -6,6 +6,7 @@ A Python project for facial landmark detection using OpenCV and Dlib.
 - OpenCV  
 - NumPy  
 - Dlib  
+- install "shape_predictor_68_face_landmarks.dat" then put it in the same folder with python file "Facial_Landmarks.py" 
 
 ## Installation  
 Run the following command to install dependencies:  
