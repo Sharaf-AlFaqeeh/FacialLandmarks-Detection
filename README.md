@@ -17,7 +17,7 @@ pip install opencv-python numpy dlib
 ## Usage  
 Run the script using:  
 \`\`\`sh  
-python main.py  
+python Facial_Landmarks.py 
 \`\`\`
 
 ## Author  
